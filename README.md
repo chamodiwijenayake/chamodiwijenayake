@@ -1,7 +1,7 @@
 # Chamodi Wijenayake
 Ph.D. Candidate in Applied Mathematics | Computer Science & Machine Learning
 
-Applied Mathematics Ph.D. candidate at Clarkson University specializing in Deep Learning (PyTorch), 
+Applied Mathematics Ph.D. candidate at Clarkson University specializing in Deep Learning (Python/PyTorch), 
 Graph Neural Networks (GNNs), Numerical Methods, and Spatio-Temporal Algorithms.
 
 ### 🔬 Research Highlights
