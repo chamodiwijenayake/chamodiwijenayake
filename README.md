@@ -9,8 +9,8 @@ Graph Neural Networks (GNNs), Numerical Methods, and Spatio-Temporal Algorithms.
 - **Graph Neural Networks & Spatial Frameworks:** Integrating Fixed Rank Kriging (FRK) with GNN message-passing layers in PyTorch.
 - **Federated Learning:** Developed distributed predictive route modeling using TensorFlow Federated.
 
-🛠️ **Tech Stack:** Python, PyTorch, C++, R, SQL, Linux/Bash, AWS, Azure, Git
+🛠️ **Tech Stack:** Python, PyTorch, C++, R, SQL, Linux/Bash, AWS, Azure, Git, Java, JavaScript
 
 > **Note on Research Repositories:** Codebases for ongoing research and manuscripts currently under peer review are maintained in private repositories. Access can be provided to hiring committees upon request.
 
-📬 **Connect:** [LinkedIn](https://linkedin.com/in/chamodi-wijenayake) | [Email](mailto:wijenach@clarkson.edu)$$
+📬 **Connect:** [LinkedIn](https://linkedin.com/in/chamodi-wijenayake) | [Email](mailto:wijenach@clarkson.edu)
