@@ -5,7 +5,7 @@ Applied Mathematics Ph.D. candidate at Clarkson University specializing in Deep 
 Graph Neural Networks (GNNs), Numerical Methods, and Spatio-Temporal Algorithms.
 
 ### 🔬 Research Highlights
-- **Spatio-Temporal Scan Algorithms:** Developed high-performance computational methods (DD-STScan) for irregular cluster detection using Monte Carlo simulations.
+- **Spatio-Temporal Scan Algorithms:** Developed high-performance computational methods (DD-STScan) for irregular cluster detection using Monte Carlo simulations. https://github.com/chamodiwijenayake/DD-STScan-Spatiotemporal-scan-method.git
 - **Graph Neural Networks & Spatial Frameworks:** Integrating Fixed Rank Kriging (FRK) with GNN message-passing layers in PyTorch.
 - **Federated Learning:** Developed distributed predictive route modeling using TensorFlow Federated.
 
